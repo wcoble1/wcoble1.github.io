@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Alex vs. the Internet</title>
+</head>
+	<link rel="stylesheet" type="text/css" href="webpage.css"/>
+
+<style>
+	div.projects{
+		background-color: black;
+		color: white;
+}
+	div.proj1{
+		background-color: white;
+		color: black;
+}
+	div.proj2{
+		background-color: black;
+		color: white;
+}
+	div.proj3{
+		background-color: white;
+		color: black;
+}
+	div.proj4{
+		background-color: black;
+		color: white;
+}
+</style>
+<body>
+	<div class = "top">
+	<h6><a href="src/webpage.css">CSS Document</a></h6>
+	<h6><a href="http://www.cs.gsu.edu">http://www.cs.gsu.edu</a></h6>
+	<h1>Alex vs. the Internet</h1>
+	<img class="me" src="src\img0.jpg" alt = "Internet: 1| Alex: 0"/>
+	<h2>
+	William Alexander Coble
+	</h2>
+	<h3>
+	They said the Internet hated me. They said I'd never have a website. But now I got a website.
+	</h3>
+	</div>
+	<div class = "main">
+	<p>
+	I was born in Atlanta, Georgia on February 27th, 1992, and it wasn’t long before I became personally victimized by the internet. At the tender age of seven I had my first run in with dial-up. My connection was so often interrupted that my first America Online trial was through before my homepage loaded. In middle school I lost three relationships due to an unresponsive Yahoo Messenger. They BRB’d me and never came back. And last week my XBOX Live account got downgraded to an XBOX pre-recorded. My plan to create a support network was stolen by the Winklevosses. I’m here for revenge.
+	</p>
+	<div class = "links">
+	<p>Click <a href="http://www.poetryloverspage.com/poets/kipling/ballad_of_kings_jest.html">here</a> to read a poem.</p>
+	<p>Click <a href="http://waitbutwhy.com/">here</a> to learn something for once.</p>
+	<p>Click <a href="http://allrecipes.com/">here</a> for an affordable meal direct to your home.</p>
+	<p><a href="http://www.ebay.com/bhp/monster-ethernet-cable">Donate.</a></p>
+
+	</div>
+
+	<div class = "projects">
+	<h4>Future Projects & Assignments:</h4>
+	<div class = "proj1">
+	<p>A+</p>
+	</div>
+	<div class = "proj2">
+	<p>A+</p>
+	</div>
+	<div class = "proj3">
+	<p>A D- let's be real</p>
+	</div>
+	<div class = "proj4">
+	<p>A+</p>
+	</div>
+	</div>	
+
+	<div class = "interests">
+	<h4>Interests/Hobbies:</h4>
+	<ul>
+		<li>Baseball</li>
+		<li>Writing</li>
+		<li>Cooking</li>
+		<li>Film (<a href="https://www.shortoftheweek.com/">here</a>)</li>
+		<li>Chess (<a href="https://www.chess.com/">here</a>)</li>
+		<li>Customer Service (<a href="https://customer.xfinity.com/contact-us">here</a>)</li>
+	</ul>
+	</div>
+
+	<div class = "enemies">
+	<h4>Enemies:</h4>
+	<ol>
+		<li>Comcast</li>
+		<li>WINKLEEEVOOOOOSSSSSSSS!!!</li>
+		<li>Al Gore</li>
+		<li>Bill Gates</li>
+		<li>ARPANET</li>
+		<li>Net Neutrality Act</li>
+		<li>Stacy.</li>
+		<li>Hal 9000</li>
+		<li>KDTrey5</li>
+		<li>Jennifer Lawrence</li>
+	</ol>
+	</div>	
+
+	<div class = "resume">
+	<h4>Resume:</h4>
+	<ul>
+		<li>Education:</li>
+		<ul>
+			<li>Chamblee High School</li>
+			<li>Morehouse</li>
+			<li>
+			<span class ="word">Georgia State</span>
+			</li>
+		</ul>
+		<li>Job History</li>
+		<ul>
+			<li>SkyHike</li>
+			<li>Emory Sports and Fitness</li>
+			<li>Macy's</li>
+			<li>MIT Zero Robotics</li>
+		</ul>		
+	</ul>
+	</div>
+
+	<div class = "quote">
+	<h4>Favorite Quote: "To speak with an agent, please press 0"</h4>
+	</div>
+	</div>
+</body>
+</html>
